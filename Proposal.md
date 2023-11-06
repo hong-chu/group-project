@@ -2,9 +2,9 @@
 
 ## Team Members:
 
-- Alice Smith – 
-- Bob Johnson – 
-- Hong Chu – 
+- Tian Liu (tianliu@seas.upenn.edu) - writeup, project overview, challenges and further steps
+- Dian Gu (diangu@seas.upenn.edu) - will be responsible for performing explantory data analysis
+- Hong Chu (hongchu@seas.upenn.edu) - will handle modeling and visualization
 
 ## Data Source:
 The project will utilize the [arXiv dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv/data), a comprehensive repository of over a million scholarly articles in various fields of science and technology. <br>
@@ -14,6 +14,7 @@ The dataset satisfies the requirement of having more than 50,000 rows after clea
 ## Project Goal:
 The rapid proliferation of AI/ML research papers makes staying abreast of the latest trends and discoveries a daunting task, especially for researchers focusing on specific topics or for interdisciplinary scholars without a deep background in AI/ML. <br>
 The LitRev Assistant aims to mitigate this challenge by providing a user-friendly tool to facilitate the literature review process.
+
 
 ## Project Plan:
 Our team plans to develop a helpful literature review assistant that will guide users through the AI topic landscape, offering personalized paper recommendations from the arXiv dataset based on the user's selected topics, author networks, and paper similarities.
@@ -47,6 +48,7 @@ The project will involve several key modeling components:
 5. <b>Visualization & Deployment:</b>
 - Interface built with Plotly Dash and deployment via Heroku for interactive user engagement.
 
+
 ## Interest and Challenges:
 This project stands out for its potential to significantly expedite the literature review process in academic research. <br>
 It promises to help domain researchers sift through extensive literature and aid non-specialists in quickly familiarizing themselves with AI/ML topics.
@@ -59,5 +61,5 @@ Challenges may include:
 
  
 ## Additional Notes:
-1. TA Preference: We request TA John Doe for his expertise in NLP and machine learning.
+1. TA Preference: We request TA Khanh Nguyen for her expertise if possible.
 2. Our team is committed to an iterative development approach, allowing for flexibility in our plan as we incorporate feedback and learn more about the data and user requirements.
