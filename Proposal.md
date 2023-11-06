@@ -6,9 +6,8 @@
 - Bob Johnson – 
 - Hong Chu – 
 
-
 ## Data Source:
-The project will utilize the arXiv dataset, a comprehensive repository of over a million scholarly articles in various fields of science and technology. <br>
+The project will utilize the [arXiv dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv/data), a comprehensive repository of over a million scholarly articles in various fields of science and technology. <br>
 The dataset satisfies the requirement of having more than 50,000 rows after cleaning and provides a rich set of features ideal for predictive modeling and NLP tasks.
 
 
